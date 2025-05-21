@@ -1,6 +1,6 @@
 @import 'tailwindcss';
 @import 'bootstrap';
-
+@import 'bootstrap/dist/css/bootstrap.min.css';
 @source '../../vendor/laravel/framework/src/Illuminate/Pagination/resources/views/*.blade.php';
 @source '../../storage/framework/views/*.php';
 @source '../**/*.blade.php';
@@ -10,83 +10,61 @@
     --font-sans: 'Instrument Sans', ui-sans-serif, system-ui, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji',
         'Segoe UI Symbol', 'Noto Color Emoji';
 }
+/*
+ vista app
+ */
+ /* Centrado de toda la aplicación */
 body {
-    background-color: #ffffff;
-    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-}
-
-h2 {
-    color: #0d6efd; /* azul Bootstrap */
-}
-
-.table-bordered {
-    border-color: #0d6efd;
-}
-
-.btn-primary {
-    background-color: #0a58ca;
-    border-color: #0a58ca;
-}
-
-.btn-primary:hover {
-    background-color: #084298;
-    border-color: #084298;
-}
-
-.agenda-container {
-  max-width: 900px;
-  background-color: #dad3d3;
-  padding: 1.5rem;
-  margin: 2rem auto;
-  box-shadow: 0 0 15px rgba(0,0,0,0.1);
-  border-radius: 8px;
-  font-family: Arial, sans-serif;
-}
-
-.agenda-container h1 {
-  font-weight: 700;
-  color: #007bff;
-  margin-bottom: 1.5rem;
-  text-align: center;
-}
-
-table th, table td {
-  vertical-align: middle !important;
-}
-
-.btn i {
-  margin-right: 5px;
-}
-
-.alert ul {
-  margin-bottom: 0;
-}
-
-form .form-label {
-  font-weight: 600;
-}
-
-form input.form-control {
-  box-shadow: none;
-  border: 1px solid #ced4da;
-  transition: border-color 0.3s ease;
-}
-
-form input.form-control:focus {
-  border-color: #007bff;
-  box-shadow: 0 0 5px rgba(0,123,255,0.5);
-}
-.table-container {
-  margin: 20px auto;
-  max-width: 800px;
+  margin: 0;
+  padding: 0;
+  min-height: 100vh;
+  display: flex;
   justify-content: center;
-  background-color: #f8f9fa;
-  padding: 20px;
-  border-radius: 8px;
-  box-shadow: 0 0 10px rgba(0,0,0,0.1);
+  align-items: center;
+  background-color: #f4f6f9;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  background-size: cover;
+  background-position: center;
+
 }
-.table.table-striped {
-  background-color: #ffffff;
-  /* text-align: center; /para centralizar o texto */
-  border-radius: 8px;
+/* Estilo del título principal */
+.titulo-principal {
+  font-size: 2.5rem;
+  color: #000000;
+  text-align: center;
+  margin-bottom: 1.5rem;
+  font-weight: bold;
+  text-shadow: 1px 1px 2px rgba(0, 0, 0, 0.1);
 }
+
+.router-link-active {
+  border: 2px solid #fff;
+}
+
+/* Centrado vertical y horizontal del body */
+body {
+  margin: 0;
+  padding: 0;
+  min-height: 100vh;
+  background-image: url('/images/fondo.jpg'); /* Ajusta la ruta según tu proyecto */
+  background-size: cover;
+  background-position: center;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-family: 'Segoe UI', sans-serif;
+}
+
+/* Contenedor principal */
+.container {
+  background: linear-gradient(135deg, #b0c8ed, #ad91e2); /* Azul a morado */
+  color: rgb(13, 13, 13);
+  padding: 2rem;
+  border-radius: 12px;
+  box-shadow: 0 0 30px rgba(0, 0, 0, 0.15);
+  max-width: 700px;
+  width: 100%;
+  box-sizing: border-box;
+}
+
+
