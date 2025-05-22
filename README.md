@@ -72,6 +72,13 @@ npm run dev
 
 If you discover a security vulnerability within Laravel, please send an e-mail to Taylor Otwell via [taylor@laravel.com](mailto:taylor@laravel.com). All security vulnerabilities will be promptly addressed.
 
+## Capturas
+
+![App Screenshot](https://drive.google.com/uc?export=view&id=1giRcozYBpIH_sC2uvFiNmL8m6on0oDtS)
+![App Screemshot](https://drive.google.com/uc?export=view&id=1kSCxWrfY0bkroNJenTnI58SfJtX870dw)
+![App Screemshot](https://drive.google.com/uc?export=view&id=1BPgQEsJSdSWYf5YykNfX_EUeq9eQfloV)
+![App Screemshot](https://drive.google.com/uc?export=view&id=1hCzbWi9YkteuPBq6KJhCQMwzypumPVoL)
+
 ## License
 
 The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
