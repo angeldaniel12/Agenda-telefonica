@@ -77,7 +77,7 @@ If you discover a security vulnerability within Laravel, please send an e-mail t
 ![image](https://drive.google.com/uc?export=view&id=1giRcozYBpIH_sC2uvFiNmL8m6on0oDtS)
 ![image](https://drive.google.com/uc?export=view&id=1kSCxWrfY0bkroNJenTnI58SfJtX870dw)
 ![image](https://drive.google.com/uc?export=view&id=1BPgQEsJSdSWYf5YykNfX_EUeq9eQfloV)
-![image](https://drive.google.com/uc?export=view&id=1hCzbWi9YkteuPBq6KJhCQMwzypumPVoL)
+<img width="704" alt="Image" src="https://github.com/user-attachments/assets/72c44311-4fcc-41c6-bd7b-807c6b015592" />
 
 ## License
 
