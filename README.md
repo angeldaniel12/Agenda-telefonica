@@ -74,10 +74,10 @@ If you discover a security vulnerability within Laravel, please send an e-mail t
 
 ## Capturas
 
-![Image](https://drive.google.com/uc?export=view&id=1giRcozYBpIH_sC2uvFiNmL8m6on0oDtS)
-![Image](https://drive.google.com/uc?export=view&id=1kSCxWrfY0bkroNJenTnI58SfJtX870dw)
-![Image](https://drive.google.com/uc?export=view&id=1BPgQEsJSdSWYf5YykNfX_EUeq9eQfloV)
-![Image](https://drive.google.com/uc?export=view&id=1hCzbWi9YkteuPBq6KJhCQMwzypumPVoL)
+![image](https://drive.google.com/uc?export=view&id=1giRcozYBpIH_sC2uvFiNmL8m6on0oDtS)
+![image](https://drive.google.com/uc?export=view&id=1kSCxWrfY0bkroNJenTnI58SfJtX870dw)
+![image](https://drive.google.com/uc?export=view&id=1BPgQEsJSdSWYf5YykNfX_EUeq9eQfloV)
+![image](https://drive.google.com/uc?export=view&id=1hCzbWi9YkteuPBq6KJhCQMwzypumPVoL)
 
 ## License
 
