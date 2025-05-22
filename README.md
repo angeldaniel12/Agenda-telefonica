@@ -45,7 +45,7 @@ Configura la base de datos en tu archivo .env con tus credenciales correspondien
  DB_CONNECTION=mysql
  DB_HOST=127.0.0.1
  DB_PORT=3306   
- DB_DATABASE=cafira
+ DB_DATABASE=mibasededatos
  DB_USERNAME=root
  DB_PASSWORD= *********
 
